@@ -4,7 +4,7 @@
 
 ## 在线使用
 
-部署到 GitHub Pages 后，可直接通过仓库对应的 `https://<用户名>.github.io/<仓库名>/` 地址访问。
+网站地址：[https://2004lccl-sketch.github.io/simple-calculator/](https://2004lccl-sketch.github.io/simple-calculator/)
 
 ## 功能
 
